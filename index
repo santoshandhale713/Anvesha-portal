@@ -140,7 +140,7 @@
   // ════════════════════════════════════════════════════════
   //  PASTE YOUR GOOGLE APPS SCRIPT WEB APP URL BELOW
   // ════════════════════════════════════════════════════════
-  var SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_URL_HERE";
+  var SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxiviU9Pck8FhoWqJG7A9H5Pl9RpIuWxBRv1PNLLdZXy73qwWKAOYy3VyVIESMRuLaIkw/exec";
   // Example: "https://script.google.com/macros/s/AKfycb.../exec"
 
   var currentMobile = "";
